@@ -1,0 +1,25 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.too{ 
+
+    padding: 5rem;
+    background-color: aqua;
+    width: 30rem;
+    height: 20rem;
+}
+
+
+.mee{
+
+    background-color: blue;
+    padding: 3rem;
+    width: 10%;
+    position: fixed;
+    
+    
+}

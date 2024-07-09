@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    background-color: pink;
+    padding: 60px;
+    margin: 10px;
+    flex-direction: column;
+    display: flex;
+    margin: 10px;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.item{
+    background-color: aqua;
+    padding: 35px;
+    color: blue;
+    font-size: larger;
+
+}
+
+
+.item-1{
+
+
+
+
+}
+.item-2{
+
+}
+
+
+.item-3{
+
+
+}
+
+
+
+
+.item-4{
+
+
+}
+
+.item-5{
+   
+
+
+}

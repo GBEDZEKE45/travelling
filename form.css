@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+    background-color: yellowgreen;
+
+}
+   
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#p1{
+height: 30px;
+width: 160px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+#pw{
+    height: 30px;
+    width:160px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#btm{
+    height: 25px;
+    width: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

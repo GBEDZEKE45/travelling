@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: chartreuse;
+}
+
+
+html{
+    font-size: ;
+}
+
+
+nav{
+    display: flex;
+    color: black;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    font-size: larger;
+    
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    align-self: center;
+}
+    
+
+
+li{
+list-style: none;
+
+}
+
+ul a{
+    text-decoration: none;
+    color:black;
+
+
+}
+
